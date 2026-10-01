@@ -1,4 +1,4 @@
-# 🧾 PaperTask — Tangible Notion Tasks on Continuous Thermal Paper
+# PaperTask — Tangible Notion Tasks on Continuous Thermal Paper
 
 <p align="center">
   <img src="public/papertask_icon.png" alt="PaperTask Logo" width="100" />
