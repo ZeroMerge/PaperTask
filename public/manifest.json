@@ -1,0 +1,24 @@
+{
+  "name": "PaperTask — Notion Thermal Printer",
+  "short_name": "PaperTask",
+  "description": "Print your Notion tasks directly to continuous thermal roll paper via Bluetooth.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F7FA",
+  "theme_color": "#00213f",
+  "icons": [
+    {
+      "src": "/papertask_favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/papertask_icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
