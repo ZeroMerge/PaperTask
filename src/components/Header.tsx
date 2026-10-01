@@ -34,7 +34,7 @@ export const Header: React.FC<HeaderProps> = ({
           {/* Brand */}
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-md bg-[#f3efff] flex items-center justify-center shrink-0">
-              <img src="/papertask_icon.png" alt="PaperTask" className="w-7 h-7 object-contain" />
+              <img src="/papertask_icon.svg" alt="PaperTask" className="w-6 h-6 object-contain" />
             </div>
             <div>
               <div className="flex items-center gap-2">

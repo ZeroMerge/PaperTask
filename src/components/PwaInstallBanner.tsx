@@ -100,7 +100,7 @@ export const PwaInstallBanner: React.FC = () => {
     >
       <div className="flex items-center gap-3 min-w-0">
         <div className="w-9 h-9 rounded bg-[#6314ff] flex items-center justify-center shrink-0">
-          <img src="/papertask_favicon.svg" alt="PaperTask Icon" className="w-5 h-5" />
+          <img src="/papertask_icon.svg" alt="PaperTask Icon" className="w-5 h-5" />
         </div>
         <div className="min-w-0">
           <div className="flex items-center gap-1.5">

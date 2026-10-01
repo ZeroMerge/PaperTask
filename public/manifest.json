@@ -9,10 +9,10 @@
   "theme_color": "#00213f",
   "icons": [
     {
-      "src": "/papertask_favicon.svg",
+      "src": "/papertask_icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "/papertask_icon.png",
